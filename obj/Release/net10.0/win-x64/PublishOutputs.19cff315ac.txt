@@ -1,0 +1,5 @@
+/Users/gabriel/Rev-Shell/bin/Release/net10.0/win-x64/publish/Rev-Shell.exe
+/Users/gabriel/Rev-Shell/bin/Release/net10.0/win-x64/publish/Rev-Shell.dll
+/Users/gabriel/Rev-Shell/bin/Release/net10.0/win-x64/publish/Rev-Shell.deps.json
+/Users/gabriel/Rev-Shell/bin/Release/net10.0/win-x64/publish/Rev-Shell.runtimeconfig.json
+/Users/gabriel/Rev-Shell/bin/Release/net10.0/win-x64/publish/Rev-Shell.pdb

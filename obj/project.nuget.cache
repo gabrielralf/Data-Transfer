@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpzY237IdSw=",
+  "success": true,
+  "projectFilePath": "/Users/gabriel/Rev-Shell/Rev-Shell.csproj",
+  "expectedPackageFiles": [
+    "/Users/gabriel/.nuget/packages/microsoft.netcore.app.host.win-x64/10.0.5/microsoft.netcore.app.host.win-x64.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

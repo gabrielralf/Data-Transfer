@@ -1,0 +1,14 @@
+/Users/gabriel/Rev-Shell/bin/Release/net10.0/win-x64/Rev-Shell.exe
+/Users/gabriel/Rev-Shell/bin/Release/net10.0/win-x64/Rev-Shell.deps.json
+/Users/gabriel/Rev-Shell/bin/Release/net10.0/win-x64/Rev-Shell.runtimeconfig.json
+/Users/gabriel/Rev-Shell/bin/Release/net10.0/win-x64/Rev-Shell.dll
+/Users/gabriel/Rev-Shell/bin/Release/net10.0/win-x64/Rev-Shell.pdb
+/Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/Rev-Shell.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/Rev-Shell.AssemblyInfoInputs.cache
+/Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/Rev-Shell.AssemblyInfo.cs
+/Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/Rev-Shell.csproj.CoreCompileInputs.cache
+/Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/Rev-Shell.dll
+/Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/refint/Rev-Shell.dll
+/Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/Rev-Shell.pdb
+/Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/Rev-Shell.genruntimeconfig.cache
+/Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/ref/Rev-Shell.dll
