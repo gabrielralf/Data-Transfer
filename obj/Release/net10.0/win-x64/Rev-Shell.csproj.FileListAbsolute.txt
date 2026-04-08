@@ -12,3 +12,4 @@
 /Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/Rev-Shell.pdb
 /Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/Rev-Shell.genruntimeconfig.cache
 /Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/ref/Rev-Shell.dll
+/Users/gabriel/Rev-Shell/obj/Release/net10.0/win-x64/Rev-Shell.sourcelink.json

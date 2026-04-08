@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rev-Shell")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+853a8dd3bedd8bc5348f8c17b4436b8cde9c8acd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rev-Shell")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rev-Shell")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
